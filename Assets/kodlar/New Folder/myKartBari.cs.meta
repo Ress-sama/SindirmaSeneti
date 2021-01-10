@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f2865258e54ef884a85653ff87329f3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attack: {fileID: 6436668113546746980, guid: b0ea6e495cfb4964a9d169303b84c826,
+      type: 3}
+  - deffence: {fileID: 6739200575669877019, guid: 42319b52564480b4e896e281eb0d3fcc,
+      type: 3}
+  - KartBarim: {fileID: 2186202816173689264, guid: 12e98e090a9d93c4885f6c1be2b729d2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

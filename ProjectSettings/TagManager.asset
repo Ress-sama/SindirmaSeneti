@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KartYerim
+  - DKartB
+  - DKartYeri
+  - _UIManager
+  - heri
+  - mKartBarim
+  - mSolIsiq
+  - mSagIsiq
+  - mAsagiIsiq
+  - mYuxariIsiq
+  - mKenarIsiq
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ArxaPlan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: arxa
+    uniqueID: 2634154681
+    locked: 0
+  - name: oyuncu
+    uniqueID: 78327849
+    locked: 0
+  - name: UI
+    uniqueID: 210271497
+    locked: 0
+  - name: Dusmen
+    uniqueID: 366443017
+    locked: 0
+  - name: KartGovde
+    uniqueID: 1002698255
+    locked: 0
+  - name: dzc
+    uniqueID: 1189553587
+    locked: 0
+  - name: masin
+    uniqueID: 3706597111
+    locked: 0
